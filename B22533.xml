@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands triumph for the Prince of Wales, or, A short description of the fireworks, machines &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22533</idno><idno type="EEBO-CITATION">18778309</idno>
+  <idno type="VID">205269</idno>
+  <idno type="EEBO-PROQUEST">2240871248</idno>
+  
+            <idno type="STC">Wing E3065A</idno>
+            <idno type="OCLC">18778309</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22533)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205269)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1651:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands triumph for the Prince of Wales, or, A short description of the fireworks, machines &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for P.L.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">James, --  Prince of Wales, 1688-1766.</term>
+               <term type="geographic_name">Great Britain --  History --  James II, 1685-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="report">
+            <pb facs="tcp:205269:1"/>
+            <head>Englands Triumphs FOR THE <hi>Prince of WALES:</hi> OR, A short Description of the <hi>Fireworks, Ma<g ref="char:EOLhyphen"/>chines,</hi> &amp;c. Which were represented on the <hi>Thames</hi> before <hi>Whitehall,</hi> to the King, and Queen, Nobility and Gentry, Forreign Ministers, and many thousands of Specta<g ref="char:EOLhyphen"/>tors, on <hi>Tuesday-</hi>night, <hi>July</hi> 17. 1688.</head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="allowance">
+                        <p>With Allowance,</p>
+                        <closer>
+                           <dateline>
+                              <date>July the 18th. 1688.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>THe happy Birth of the Prince of <hi>Wales,</hi> having long since filled every corner of the Three Kingdoms with Joy and Gladness, and e're this reacht the Ears of all <hi>Europe;</hi> The Kings Majesty to Commerate the same and the Queens Majesty's <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itting, in his Princely Generosity, Commanded the most Accomplishtly Ingenious Sir <hi>Martin Beckman,</hi> His Ingeneer at the <hi>Tower,</hi> forthwith for to prepare such Machines and Fireworks, as might be suitable to so great an Occasion, and to prepare them for His and the Queens Royal view on the <hi>Thames</hi> before His Pallace of <hi>Whitehall.</hi>
+            </p>
+            <p>In Obedience thereto Sir <hi>Martin</hi> prepared large Vessels, called Lighters, which being close covered or Scaffolded, thereon erected as many different Figures▪</p>
+            <p>
+               <hi>First,</hi> Betwixt two square Pyramids in an Iron Chain, hung in the Centre a <hi>Sun</hi> in its Glory; below that, in a direct Line, an <hi>Imperial Crown;</hi> and under that, <hi>J. M. R.</hi> in a Cypher adornd; the Pyramids wreathed with Fireworks from the bottom to the top, and at the Main-top <hi>Pennants</hi> with the Arms of <hi>England,</hi> on each side the Pyramids divers other sorts of Fire<g ref="char:EOLhyphen"/>works.</p>
+            <p>
+               <hi>Second,</hi> A <hi>Bacchus</hi> bigger than the Life (with all parts full of Holes stopt with Fireworks) astride on a large Tun covered as the two Pyramids with Tun-plates, and also many sorts of Fireworks on every quarter.</p>
+            <p>
+               <hi>Third,</hi> The figure of a Woman (bigger than the Life) representing <hi>Plenty</hi> and <hi>Peace,</hi> adorn'd with all the usual Ensigns of <hi>Plenty</hi> and <hi>Peace,</hi> wrought all in Fireworks, wreaths Cornucopia's, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Fourth,</hi> A Woman much bigger than the Life, a Coronet on her Head, adorn'd with the proper Emblems of <hi>Firmness,</hi> or <hi>Stability of Empire,</hi> and on every quarter of the Stage Firewords of different kinds.</p>
+            <p>
+               <hi>Fifth</hi> and <hi>Sixth,</hi> Were planted full of Morter-pieces of different sizes for throwing of Bombs, Carcasses, <hi>&amp;c.</hi> whose Shells were made of Can<g ref="char:EOLhyphen"/>vis and lasht about with Cords, and so contrived to break when falling, to prevent the least mischief where they fell.</p>
+            <pb facs="tcp:205269:2"/>
+            <p>
+               <hi>Seventh</hi> and <hi>Eight,</hi> Planted with small Chambers and other small Pieces erect, and very thick one by another.</p>
+            <p>9<hi>th.</hi> 10. 11. and 12<hi>th.</hi> Were furnished with Sky-Rockets and many other Curiosities for springing up a vast height in the Air in divers Figures, and done with that extraordinary Art, as shewed the greatness of the Designer, each having private receptacles for Fireworks to supply as the others burnt off.</p>
+            <p>The 13, 14, and 15. were also furnished with other Combustible Com<g ref="char:EOLhyphen"/>positions for furnishing the whole as occasion offer'd.</p>
+            <p>About 40 great pieces of Piles were drove in at a competent distance one from another, and whole pieces of Firr Timber fastned from Pile to Pile made a Line Round them, and kept all Boats coming in to avoid confusion and accidents which attend such mighty confluences of People.</p>
+            <p>Thus every thing being prepared, and the Men posted in their proper stations, the several Water Pageants were placed in a Line before <hi>White-Hall,</hi> those with the Pyrameds and Figures in the Centre.</p>
+            <p>About Nine at Night the Engineers began, and first fired the Sun, the Imperial Crown, the Cypher of the King and Queens Names, and the Let<g ref="char:EOLhyphen"/>ters which Composed the several Mottos, with other ornamental things about the Figures and Pirameds; all which was composed of Iron Work with Wire, which when on Fire was curious, and seemed as flaming Iron for a long time glowing, the Sun in the like manner appeared as glorious as at noon day, and the Crown as a body of Fire so formed, which while the numerous Spectators with admiration beheld,, they were surprised with Fire Works in the Water betwixt the King and the Lighters, and Thousands of Rockets flying up in the Ayre a prodigious height, beginning and end<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng in different Figures, and such continued Firings like great Guns, as it in some measure, for Fire, Smoke, and Noise, represented a Sea Fight. Thus were their Majesties, <hi>&amp;c.</hi> for more than an hour diverted even to astonish<g ref="char:EOLhyphen"/>ment as well as delight, which was concluded with the continued shouts and Huzzas of the People, and the great Guns at the Tower; of all which no doubt a large Account will be given to the World.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>P. L.</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
